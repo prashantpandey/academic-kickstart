@@ -40,10 +40,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "files/Prashant_Pandey_ESA_2018.pdf"
 
 url_code:
-url_pdf: "files/Prashant_Pandey_ESA_2018.pdf"
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).

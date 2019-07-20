@@ -40,10 +40,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "files/SIGMOD17_Talk_CQF_long.pdf"
 
 url_code:
-url_pdf: "files/SIGMOD17_Talk_CQF_long.pdf"
+url_pdf:
 url_video: "http://www.youtube.com/watch?v=lI2alAEzmH4&t=38m20s"
 
 # Markdown Slides (optional).

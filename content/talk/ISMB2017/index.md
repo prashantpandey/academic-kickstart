@@ -40,10 +40,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "files/ISMB17_TALK_deGR.pdf"
 
 url_code:
-url_pdf: "files/ISMB17_TALK_deGR.pdf"
+url_pdf:
 url_video: "https://www.iscb.org/cms_addon/multimedia/flvmedia.php?i=4084"
 
 # Markdown Slides (optional).
