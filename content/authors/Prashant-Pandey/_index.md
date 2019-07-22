@@ -64,9 +64,28 @@ user_groups:
 - Visitors
 ---
 
-My current research focuses on building efficient filter data structures for approximate membership testing and counting. I also work on building write-optimized data structures for online event-detection problem in streaming data sets. I am also a member of the team that developed [BetrFS](http://www.betrfs.org/), an in-kernel file system built on write-optimized indexes.
+<!--My current research focuses on building efficient filter data structures for
+approximate membership testing and counting. I also work on building
+write-optimized data structures for online event-detection problem in streaming
+data sets. I am also a member of the team that developed
+[BetrFS](http://www.betrfs.org/), an in-kernel file system built on
+write-optimized indexes.-->
 
-Currently, I am a Postdoctoral Scholar at the School of Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/). I work with [Prof. Carl Kingsford](http://www.cs.cmu.edu/~ckingsf/) on building compact data structures for large-scale sequence-search and representation of de Bruijn graphs for DNA sequencing and transcriptomic analysis.
+I am a Postdoctoral Scholar at the School of Computer Science at [Carnegie
+Mellon University](https://www.cs.cmu.edu/) working with [Prof. Carl
+Kingsford](http://www.cs.cmu.edu/~ckingsf/). My research interests lie at the
+intersection of systems and algorithms. I design and build theoretically
+well-founded data structures for big data problems in computational biology,
+storage, and streaming.
 
-Previously, I obtained my Ph.D. in Computer Science at [Stony Brook University](https://www.cs.stonybrook.edu/), and defended my dissertation, [Fast and Space-Efficient Maps: Shrinking Big Data Down to Size](files/prashant_pandey_thesis_2018_submitted.pdf). At Stony brook University, I was co-advised by [Prof. Michael Bender](http://www3.cs.stonybrook.edu/~bender/) and [Prof. Rob Johnson](http://www3.cs.stonybrook.edu/~rob/). (Dissertation committee: [Mike Ferdman](https://compas.cs.stonybrook.edu/~mferdman/), [Rob Patro](http://www.robpatro.com/redesign/), [Guy Blelloch](http://www.cs.cmu.edu/~guyb/).)
+Previously, I obtained my Ph.D. in Computer Science at [Stony Brook
+University](https://www.cs.stonybrook.edu/), and defended my dissertation, [Fast
+and Space-Efficient Maps: Shrinking Big Data Down to
+Size](files/prashant_pandey_thesis_2018_submitted.pdf). At Stony brook
+University, I was co-advised by [Prof. Michael
+Bender](http://www3.cs.stonybrook.edu/~bender/) and [Prof. Rob
+Johnson](http://www3.cs.stonybrook.edu/~rob/). (Dissertation committee: [Mike
+Ferdman](https://compas.cs.stonybrook.edu/~mferdman/), [Rob
+Patro](http://www.robpatro.com/redesign/), [Guy
+Blelloch](http://www.cs.cmu.edu/~guyb/).)
 
