@@ -3,7 +3,7 @@
 
 title: "BetrFS: Write-Optimization in a Kernel File System"
 authors: [William Jannen, Jun Yuan, Yang Zhan, Amogh Akshintala, John Esmet, Yizheng Jiao, Ankur Mittal, Prashant Pandey, Phaneendra Reddy, Leif Walsh, Michael A. Bender, Martin Farach-Colton, Rob Johnson, Bradley C. Kuszmaul, and Donald E. Porter]
-date: 2019-07-18T00:22:47-04:00
+date: 2015-07-18T00:22:47-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

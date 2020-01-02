@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ppandey2@cs.cmu.edu"
+email = "ppandey@lbl.gov"
 phone = "631 949 6948"
-address = "5000 Forbes Ave. GHC 7605 Pittsburgh PA 15232"
+address = "1 Cyclotron Rd, Berkeley, CA 94720"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>

@@ -3,7 +3,7 @@
 
 title: "Rainbowfish: A Succinct Colored de Bruijn Graph Representation"
 authors: [Fatemeh Almodaresi, Prashant Pandey, and Rob Patro]
-date: 2019-07-18T00:34:22-04:00
+date: 2017-07-18T00:34:22-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

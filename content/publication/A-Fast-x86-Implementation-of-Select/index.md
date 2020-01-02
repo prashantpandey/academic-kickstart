@@ -3,7 +3,7 @@
 
 title: "A Fast X86 Implementation of Select"
 authors: [Prashant Pandey, Michael A. Bender, and Rob Johnson]
-date: 2019-07-18T00:27:49-04:00
+date: 2017-07-18T00:27:49-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

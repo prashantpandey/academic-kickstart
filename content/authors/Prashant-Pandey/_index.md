@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc Scholar
+role: Postdoc Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Mellon University
+- name: Berkeley Lab 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ppandey2@cs.cmu.edu".
+  link: '#contact'  # For a direct email link, use "mailto:ppandey@lbl.gov".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/prashn_25
@@ -71,17 +71,21 @@ data sets. I am also a member of the team that developed
 [BetrFS](http://www.betrfs.org/), an in-kernel file system built on
 write-optimized indexes.-->
 
-I am a Postdoctoral Scholar at the School of Computer Science at [Carnegie
-Mellon University](https://www.cs.cmu.edu/) working with [Prof. Carl
-Kingsford](http://www.cs.cmu.edu/~ckingsf/). My research interests lie at the
-intersection of systems and algorithms. I design and build theoretically
+I am a postdoctoral research fellow in the Performance and Algorithms group of
+the Computer Science Department at [Berkeley
+Lab](https://crd.lbl.gov/departments/computer-science/PAR/) working with [Prof.
+Aydin Buluc](https://people.eecs.berkeley.edu/~aydin/) and [Prof.  Katherine
+Yelick](https://people.eecs.berkeley.edu/~yelick/).  My research interests lie
+at the intersection of systems and algorithms. I design and build theoretically
 well-founded data structures for big data problems in computational biology,
 storage, and streaming.
 
-Previously, I obtained my Ph.D. in Computer Science at [Stony Brook
-University](https://www.cs.stonybrook.edu/), and defended my dissertation, [Fast
-and Space-Efficient Maps: Shrinking Big Data Down to
-Size](files/prashant_pandey_thesis_2018_submitted.pdf). At Stony brook
+Previously, I spent one year as a postdoc at the School of Computer Science at
+[Carnegie Mellon University](https://www.cs.cmu.edu/) working with [Prof. Carl
+Kingsford](http://www.cs.cmu.edu/~ckingsf/). I obtained my Ph.D. in Computer
+Science at [Stony Brook University](https://www.cs.stonybrook.edu/), and
+defended my dissertation, [Fast and Space-Efficient Maps: Shrinking Big Data
+Down to Size](files/prashant_pandey_thesis_2018_submitted.pdf). At Stony brook
 University, I was co-advised by [Prof. Michael
 Bender](http://www3.cs.stonybrook.edu/~bender/) and [Prof. Rob
 Johnson](http://www3.cs.stonybrook.edu/~rob/). (Dissertation committee: [Mike

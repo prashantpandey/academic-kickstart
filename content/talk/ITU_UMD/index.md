@@ -1,21 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scheduling Problems in Write-Optimized Key-Value Stores"
+title: "Timely Reporting of Heavy Hitters using External Memory"
 event:
 event_url:
-location: "New Challenges in Scheduling Theory 20018, Aussois, France"
+location: "ITU, Copenhagen, Denmark and UMD, College Park, MD, USA"
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-04-06T12:36:40-08:00
-date_end: 2020-01-02T12:36:40-08:00
+date: 2019-10-12T12:29:23-08:00
+date_end: 2020-01-02T12:29:23-08:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-01-02T12:36:40-08:00
+publishDate: 2020-01-02T12:29:23-08:00
 
 authors: []
 tags: []

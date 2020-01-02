@@ -3,7 +3,7 @@
 
 title: "Optimizing Every Operation in a Write-Optimized File System"
 authors: [Jun Yuan, Yang Zhan, William Jannen, Prashant Pandey, Amogh Akshintala, Kanchan Chandnani, Pooja Deo, Zardosht Kasheff, Michael Bender, Martin Farach-Colton, Rob Johnson, Bradley C. Kuszmaul, and Donald E. Porter]
-date: 2019-07-18T00:24:37-04:00
+date: 2016-07-18T00:24:37-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@
 
 title: "Squeakr: An Exact and Approximate K-Mer Counting System"
 authors: [Prashant Pandey, Michael A. Bender, Rob Johnson, and Rob Patro]
-date: 2019-07-18T00:31:15-04:00
+date: 2017-07-18T00:31:15-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

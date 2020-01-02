@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://academic.oup.com/bioinformatics/article/35/14/i127/5529166"
-url_code:
+url_code: "https://github.com/Kingsford-Group/omhismb2019"
 url_dataset:
 url_poster:
 url_project:

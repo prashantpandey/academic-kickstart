@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Buffered Count-Min Sketch on SSD: Theory and Experiments"
-authors: [Mayank Goswami, Dzejla Medjedovic, Emina Mekic, Prashant Pandey]
-date: 2018-07-18T00:38:52-04:00
+title: "Timely Reporting of Heavy Hitters Using External Memory"
+authors: [Prashant Pandey,Shikha Singh, Michael A. Bender, Jonathan W. Berry, Martin Farach-Colton,Rob Johnson, Thomas M. Kroeger, Cynthia A. Phillips]
+date: 2020-01-02T12:40:16-08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-07-18T00:38:52-04:00
+publishDate: 2020-01-02T12:40:16-08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2019-07-18T00:38:52-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ESA 2018"
+publication: "SIGMOD 2020"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "http://drops.dagstuhl.de/opus/volltexte/2018/9504/pdf/LIPIcs-ESA-2018-41.pdf"
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

@@ -3,7 +3,7 @@
 
 title: "deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph"
 authors: [Prashant Pandey, Michael A. Bender, Rob Johnson, and Rob Patro]
-date: 2019-07-18T00:32:54-04:00
+date: 2017-07-18T00:32:54-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

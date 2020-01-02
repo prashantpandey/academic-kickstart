@@ -3,7 +3,7 @@
 
 title: "Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index"
 authors: [Prashant Pandey, Fatemeh Almodaresi, Michael A. Bender, Michael Ferdman, Rob Johnson, and Rob Patro]
-date: 2019-07-18T00:37:03-04:00
+date: 2018-07-18T00:37:03-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
