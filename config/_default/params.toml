@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ppandey@lbl.gov"
+email = "ppandey@berkeley.edu"
 phone = "631 949 6948"
 address = "1 Cyclotron Rd, Berkeley, CA 94720"
 

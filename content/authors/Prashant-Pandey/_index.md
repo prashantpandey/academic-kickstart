@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ppandey@lbl.gov".
+  link: '#contact'  # For a direct email link, use "mailto:ppandey@berkeley.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/prashn_25
