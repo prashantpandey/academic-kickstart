@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ppandey@lbl.gov".
+  link: '#contact'  # For a direct email link, use "mailto:ppandey@berkeley.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/prashn_25
@@ -71,14 +71,13 @@ data sets. I am also a member of the team that developed
 [BetrFS](http://www.betrfs.org/), an in-kernel file system built on
 write-optimized indexes.-->
 
-I am a postdoctoral research fellow in the Performance and Algorithms group of
-the Computer Science Department at [Berkeley
-Lab](https://crd.lbl.gov/departments/computer-science/PAR/) working with [Prof.
-Aydin Buluc](https://people.eecs.berkeley.edu/~aydin/) and [Prof.  Katherine
-Yelick](https://people.eecs.berkeley.edu/~yelick/).  My research interests lie
-at the intersection of systems and algorithms. I design and build theoretically
-well-founded data structures for big data problems in computational biology,
-storage, and streaming.
+I am a postdoctoral research fellow in the Computer Science Department at
+[Berkeley Lab](https://crd.lbl.gov/departments/computer-science/PAR/) working
+with [Prof.  Aydin Buluc](https://people.eecs.berkeley.edu/~aydin/) and [Prof.
+Katherine Yelick](https://people.eecs.berkeley.edu/~yelick/).  My research
+interests lie at the intersection of systems and algorithms. I design and build
+theoretically well-founded data structures for big data problems in
+computational biology, storage, and streaming.
 
 Previously, I spent one year as a postdoc at the School of Computer Science at
 [Carnegie Mellon University](https://www.cs.cmu.edu/) working with [Prof. Carl
