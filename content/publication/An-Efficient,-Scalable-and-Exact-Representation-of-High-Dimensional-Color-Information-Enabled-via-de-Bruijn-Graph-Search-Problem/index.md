@@ -16,7 +16,7 @@ publishDate: 2019-07-18T00:40:20-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "RECOMB 2019"
+publication: "RECOMB 2019, JCB 2020"
 publication_short: ""
 
 abstract: ""
