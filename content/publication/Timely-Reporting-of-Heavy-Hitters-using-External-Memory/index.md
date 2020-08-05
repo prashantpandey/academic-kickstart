@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3318464.3380598"
 url_code:
 url_dataset:
 url_poster:
