@@ -92,3 +92,6 @@ Ferdman](https://compas.cs.stonybrook.edu/~mferdman/), [Rob
 Patro](http://www.robpatro.com/redesign/), [Guy
 Blelloch](http://www.cs.cmu.edu/~guyb/).)
 
+I love outdoors and traveling and occasionally like to scribble my experience in
+a [blog post](https://hikingscribbles.wordpress.com/).
+
