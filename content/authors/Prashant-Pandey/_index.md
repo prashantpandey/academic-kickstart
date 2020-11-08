@@ -24,8 +24,9 @@ bio: My research interests lie at the intersection of Systems and Algorithms. I 
 interests:
 - Data Structures & Algorithms
 - Computational Biology
-- File Systems
-- Streaming
+- Storage 
+- Stream processing
+- ML/DL applications in genomics
 
 education:
   courses:
@@ -92,6 +93,12 @@ Ferdman](https://compas.cs.stonybrook.edu/~mferdman/), [Rob
 Patro](http://www.robpatro.com/redesign/), [Guy
 Blelloch](http://www.cs.cmu.edu/~guyb/).)
 
-I love outdoors and traveling and occasionally like to scribble my experience in
-a [blog post](https://hikingscribbles.wordpress.com/).
+<span style="background-color: #E76E4D"> I am currently applying for faculty
+positions. I am interested in positions both in the US and abroad.
+[Here](files/JobMaterialCombined.pdf) is my material. Please reach out to me if
+you think I would be a good addition to your department or research group!
+</span>
+
+I love outdoors and occasionally like to scribble my experience in a [blog
+post](https://hikingscribbles.wordpress.com/).
 

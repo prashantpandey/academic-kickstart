@@ -40,7 +40,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "files/SIGMOD2020.pdf"
 
 url_code:
 url_pdf:

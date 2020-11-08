@@ -44,7 +44,7 @@ url_slides: "files/VariantStore.pdf"
 
 url_code:
 url_pdf: 
-url_video:
+url_video: "https://vimeo.com/476926756"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
