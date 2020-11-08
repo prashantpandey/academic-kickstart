@@ -99,6 +99,6 @@ positions. I am interested in positions both in the US and abroad.
 you think I would be a good addition to your department or research group!
 </span>
 
-I love outdoors and occasionally like to scribble my experience in a [blog
-post](https://hikingscribbles.wordpress.com/).
+I love outdoors and occasionally like to scribble my experience in a
+[blog](https://hikingscribbles.wordpress.com/).
 
