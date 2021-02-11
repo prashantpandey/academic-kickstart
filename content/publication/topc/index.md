@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "VariantStore: A Space-Efficient and Fast Variant Search Index"
-authors: [Prashant Pandey, Yinjie Gao, Carl Kingsford]
-date: 2020-01-02T12:50:29-08:00
+title: "External-Memory Dictionaries in the Affine and PDAM Models"
+authors: [Michael Bender, Alex Conway, Martin Farach-Colton, William Jannen, Yizheng Jiao, Rob Johnson, Eric Knorr, Sara McAllister, Nirjhar Mukherjee, Prashant Pandey, Donald E. Porter, Jun Yuan, Yang Zhan]
+date: 2021-02-10T21:04:44-08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-01-02T12:50:29-08:00
+publishDate: 2021-02-10T21:04:44-08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv 2020"
-publication_short: ""
+publication: "ACM Transactions on Parallel Computing 2021"
+publication_short: "TOPC 2021"
 
 abstract: ""
 
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.biorxiv.org/content/10.1101/2019.12.24.888297v1"
-url_code: "https://github.com/Kingsford-Group/variantstore"
+url_pdf:
+url_code:
 url_dataset:
 url_poster:
 url_project:

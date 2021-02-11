@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "VariantStore: A Space-Efficient and Fast Variant Search Index"
-authors: [Prashant Pandey, Yinjie Gao, Carl Kingsford]
-date: 2020-01-02T12:50:29-08:00
+title: "An Incrementally Updatable and Scalable System for Large-Scale Sequence Search using LSM Trees"
+authors: [Fatemeh Almodaresi, Jamshed Khan, Sergey Madaminov, Prashant Pandey, Michael Ferdman, Rob Johnson, Rob Patro]
+date: 2021-02-10T21:04:51-08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-01-02T12:50:29-08:00
+publishDate: 2021-02-10T21:04:51-08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2020-01-02T12:50:29-08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv 2020"
+publication: "bioRxiv 2021"
 publication_short: ""
 
 abstract: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.biorxiv.org/content/10.1101/2019.12.24.888297v1"
-url_code: "https://github.com/Kingsford-Group/variantstore"
+url_pdf: "https://www.biorxiv.org/content/10.1101/2021.02.05.429839v1"
+url_code: "https://github.com/splatlab/mantis/tree/mergeMSTs"
 url_dataset:
 url_poster:
 url_project:
