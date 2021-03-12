@@ -10,12 +10,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-01-21T09:00:00-08:00
-date_end: 2021-01-21T10:00:00-08:00
+date: 2021-01-21T21:43:11-08:00
+date_end: 2021-01-21T21:43:11-08:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-20T22:31:37-08:00
+publishDate: 2021-03-11T21:43:11-08:00
 
 authors: []
 tags: []
@@ -40,7 +40,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "files/northeastern.pdf"
+url_slides:
 
 url_code:
 url_pdf:

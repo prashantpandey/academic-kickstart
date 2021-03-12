@@ -16,7 +16,7 @@ publishDate: 2019-07-18T00:32:54-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ISMB 2017"
+publication: "ISMB 2017, BIOINFORMATICS"
 publication_short: ""
 
 abstract: ""
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
